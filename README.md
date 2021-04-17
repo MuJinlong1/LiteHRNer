@@ -1,1 +1,1 @@
-# LiteHRNer
+# LiteHRNet
